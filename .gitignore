@@ -1,0 +1,5 @@
+.env
+vendor/
+.realize.yaml
+build/
+.DS_Store
